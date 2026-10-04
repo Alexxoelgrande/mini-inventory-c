@@ -10,4 +10,4 @@ Programa desarrollado en lenguaje C orientado a la simulación del control de st
 ## ⚙️ Instalación y Ejecución
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/mini-inventory-c.git](https://github.com/tu-usuario/mini-inventory-c.git)
+   git clone [https://github.com/Alexxoelgrande/mini-inventory-c.git](https://github.com/Alexxoelgrande/mini-inventory-c.git)
